@@ -4,7 +4,9 @@
     "express": "^5.2.1",
     "mongodb": "^7.0.0",
     "mongoose": "^9.0.0",
-    "pg": "^8.16.3"
+    "pg": "^8.16.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
   },
   "name": "desafio-jitterbit",
   "version": "1.0.0",
